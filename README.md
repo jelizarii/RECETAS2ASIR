@@ -1,2 +1,4 @@
 # RECETAS2ASIR
-pequeño proyecto de bootstrap para clase
+## Javier Elizari
+Este es un pequeño proyecto introductorio al uso de bootstrap
+2ASIR Cuatrovientos C.I.
